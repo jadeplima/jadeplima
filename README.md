@@ -8,4 +8,4 @@
 - 🎓 Formada em Análise e Desenvolvimento de Sistema
 - 💻 Utilizo a plataforma Alura como reforço de aprendizado
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadeplima&show_icons=true&theme=github_dark"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeplima&layout=compact&langs_count=16&theme=github_dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jadeplima&show_icons=true&theme=github_dark"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeplima&layout=compact&langs_count=16&theme=github_dark"/>
