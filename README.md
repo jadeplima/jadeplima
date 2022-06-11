@@ -1,6 +1,6 @@
 ### Olá, Dev 👋
 
-- 🏳️‍⚧ Não-Binario 
+- 🏳️‍⚧ Não-Binario (Ela/ele || Dela/dele)
 - ✅ Software Engineer Junior.
 - 💡 Desenvolvedora Full-Stack
 - 🎯 Aprofundando meus conhecimentos nas linguagens: Golang,JavaScript,Angular,React,HTML,CSS,NodeJs,TypeScript,SQL..
