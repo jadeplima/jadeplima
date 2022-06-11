@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Dev 👋
 
 - 🏳️‍⚧ Não-Binario
 - ✅ Software Engineer Junior.
@@ -8,4 +8,4 @@
 - 🎓 Formada em Análise e Desenvolvimento de Sistema
 - 💻 Utilizo a plataforma Alura como reforço de aprendizado
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadeplima&show_icons=true&theme=noctis_minimus)
